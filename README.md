@@ -1,4 +1,4 @@
-👋 Hi, I’m Joyce
+
 
 <!---
 JYC021127/JYC021127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
